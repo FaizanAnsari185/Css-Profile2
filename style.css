@@ -1,0 +1,104 @@
+* {
+    box-sizing: border-box;
+    margin: 0
+}
+
+.ee {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.BigBox {
+    border: 3px solid #070772;
+    border-radius: 25px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+
+.line {
+    width: 100%;
+    height: 3px;
+    background: #070772;
+}
+
+.rr {
+    margin: -2px;
+}
+
+.qq {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 10px;
+    padding: 10px 29px 9px 0px;
+}
+
+.qq1 {
+    height: 8px;
+    width: 8px;
+    background-color: #070772;
+    border-radius: 9999px;
+}
+
+
+.ff {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px 30px 0px 30px;
+}
+
+.h1 {
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(255, 0, 0);
+}
+
+
+.xbox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.mbox1 {
+    border: 3px solid #070772;
+    background-color: rgb(255, 244, 96);
+    height: 25px;
+    width: 100%;
+    border-radius: 7px;
+    margin: 10px 0px 10px 0px;
+}
+
+.mbox {
+    border: 3px solid #070772;
+    background-color: rgb(81, 167, 248);
+    height: 25px;
+    width: 30%;
+    border-radius: 7px;
+}
+
+
+
+.mbox5 {
+    border: 3px solid #070772;
+    background-color: rgb(209, 81, 248);
+    height: 25px;
+    width: 100%;
+    border-radius: 7px;
+    margin: 10px 0px 10px 0px;
+}
+
+.mbox6 {
+    border: 3px solid #070772;
+    background-color: rgb(52, 238, 123);
+    height: 90px;
+    width: 100%;
+    border-radius: 10px;
+    margin: 0px 0px 10px 0px;
+}
